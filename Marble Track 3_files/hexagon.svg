@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta name="google-site-verification" content="-quzyQXxpNQ_fKgJVfgjTcb6jfCfF9kCuaKsd_AoZdo" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Deligence Technologies – Open Source Web &amp; Mobile App Development - Deligence Technologies - your growing technology partner</title>
+<meta name="description" content="Deligence is a leading open source web &amp; mobile application development company in Delhi India." />
+<meta name="keywords" content="Deligence Technologies – Open Source Web Development company" />
+       
+       
+    <!-- CSS -->
+    <link rel='shortcut icon' type='image/favicon' href='https://www.deligence.com/images/favicon.ico' />
+	<link href="https://www.deligence.com/css/custom22.css" rel="stylesheet" />
+    <link href="https://www.deligence.com/css/careerNew-12.css" rel="stylesheet" />
+    
+    <link href="https://vjs.zencdn.net/5.19.2/video-js.css" rel="stylesheet">
+       <!--Plugins styles-->
+       
+	<!--External fonts-->
+    <link href="http://fonts.googleapis.com/css?family=Lobster&subset=latin,cyrillic-ext,cyrillic,latin-ext" rel="stylesheet" type="text/css" />
+	<link href="https://fonts.googleapis.com/css?family=Raleway:400,800,900,700,600" rel="stylesheet" type="text/css" />
+	<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+ 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700,900" rel="stylesheet">
+    
+
+	<!--[if lt IE 9]>
+	<script src="http://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="http://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+<script>
+  (function() {
+    var cx = '015487087588819086381:vtydj8_8jn8';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+<script type="text/javascript">function add_chatinline(){var hccid=47837935;var nt=document.createElement("script");nt.async=true;nt.src="https://mylivechat.com/chatinline.aspx?hccid="+hccid;var ct=document.getElementsByTagName("script")[0];ct.parentNode.insertBefore(nt,ct);}
+add_chatinline(); </script>
+
+<script>
+
+
+function drop_mail(){var a=decodeURIComponent($("#drop_name").val()),b=$("#drop_email").val(),c=decodeURIComponent($("#drop_msg").val());if(a&&b&&c)return $.ajax({type:"POST",url:"/drop_mail.php?name="+a+"&email="+b+"&msg="+c+"&action=drop_mail",success:function(a){$("#drop_response").html(a)}}),$("#drop_form")[0].reset(),!1}
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '567520706940735'); 
+fbq('track', 'PageView');
+</script>
+<noscript>
+<img height="1" width="1" 
+src="https://www.facebook.com/tr?id=567520706940735&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<!-- Global site tag (gtag.js) - Google AdWords: 953557085 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-953557085"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-953557085');
+</script>
+
+<script type="text/javascript" src="https://goodfirms.co/js/widget.js"></script>
+<script type="text/javascript" src="https://static1.clutch.co/api/widget.js"></script>
+
+
+</head>
+<body>
+<!-- Page pre loader -->
+<!-- <div class="se-pre-con"></div> -->
+<!-- Header START-->
+<header class="header absolute">
+<div class="container">
+<div class="row">
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+<div class="logo"><a href="https://www.deligence.com/"><img alt="Deligence Technologies"  title="Deligence Technologies" src="https://www.deligence.com/images/logo2018-3.png"   /></a></div>
+<nav class="primary-menu" id="primary-menu"><a class="menu-icon-trigger showhide" href="javascript:void(0)" id="menu-icon-trigger"><span class="mob-menu--title">Menu</span> <span class="menu-icon-wrapper" id="menu-icon-wrapper" style="visibility: hidden"> <svg height="1000px" width="1000px"> <path d="M 300 400 L 700 400 C 900 400 900 750 600 850 A 400 400 0 0 1 200 200 L 800 800" id="pathD"></path> <path d="M 300 500 L 700 500" id="pathE"></path> <path d="M 700 600 L 300 600 C 100 600 100 200 400 150 A 400 380 0 1 1 200 800 L 800 200" id="pathF"></path> </svg> </span> </a> <!-- menu-icon-wrapper -->
+<ul class="primary-menu-menu">
+	<!--<li class="has-megamenu menu-item-has-children" id="technologies"><a href="https://www.deligence.com/technologies">Technologies</a>
+	<div class="megamenu">
+	<div class="megamenu-row">
+	<div class="col-sm-3">
+	<ul>
+		<li class="megamenu-item-info">
+		<h5 class="megamenu-item-info-title"><a href="https://www.deligence.com/technologies/nodejs-mongodb">Node JS/Monogo DB </a></h5>
+		</li>
+		<li><a href="https://www.deligence.com/technologies/nodejs-mongodb/meteor">Meteor</a></li>
+		<li class="megamenu-item-info">
+		<div class="megamenu-item-info-text">
+		<ol>
+			<li><a href="https://www.deligence.com/technologies/nodejs-mongodb/meteor/reaction-ecommerce">Reaction Commerce</a></li>
+			<li><a href="https://www.deligence.com/technologies/nodejs-mongodb/meteor/telescopejs">Vulcan JS</a></li>
+			<li><a href="https://www.deligence.com/technologies/nodejs-mongodb/meteor/meteor-galaxy">Meteor Galaxy</a></li>
+			<li><a href="https://www.deligence.com/technologies/nodejs-mongodb/meteor/apollo">Apollo</a></li>
+		</ol>
+		</div>
+		</li>
+		<li class="megamenu-item-info">
+	  	  <h5 class="megamenu-item-info-title"><a href="https://www.deligence.com/technologies/react-nextjs-graphql">RNG Stack (React, Next.js, GraphQL)</a></h5>
+		</li>
+		<li class="megamenu-item-info">
+	  	  <h5 class="megamenu-item-info-title"><a href="https://www.deligence.com/technologies/mocha">Mocha</a></h5>
+		</li>
+		<li class="megamenu-item-info">
+	  	  <h5 class="megamenu-item-info-title"><a href="https://www.deligence.com/technologies/zoom-charts">Zoom Charts</a></h5>
+		</li>
+	</ul>
+	</div>-->
+	<!--<div class="col-sm-3">
+	<ul>
+		<li class="megamenu-item-info">
+		<h5 class="megamenu-item-info-title"><a href="https://www.deligence.com/technologies/php-mysql">PHP/MySQL </a></h5>
+		</li>
+		<li><a href="https://www.deligence.com/technologies/php-mysql/joomla">Joomla</a></li>
+		<li class="megamenu-item-info">
+		<div class="megamenu-item-info-text">
+		<ol>
+			<li><a href="https://www.deligence.com/technologies/php-mysql/joomla/joomla-upgrade">Joomla Upgrade </a></li>
+			<li><a href="https://www.deligence.com/technologies/php-mysql/joomla/jomres-customizations">Jomres Customizations </a></li>
+			<li><a href="https://www.deligence.com/technologies/php-mysql/joomla/hikashop-customizations">HikaShop Customizations </a></li>
+		</ol>
+		</div>
+		</li>
+		<li><a href="https://www.deligence.com/technologies/php-mysql/wordpress">WordPress</a></li>
+		<li class="megamenu-item-info">
+		<div class="megamenu-item-info-text">
+		<ol>
+			<li><a href="https://www.deligence.com/technologies/php-mysql/wordpress/woocommerce">Woo Commerce </a></li>
+		</ol>
+		</div>
+		</li>
+		<li><a href="https://www.deligence.com/technologies/php-mysql/jreviews-customizations">JReviews Customizations </a></li>-->
+		<!--<li><a href="https://www.deligence.com/technologies/php-mysql/october-cms">October CMS</a></li>-->
+<!--	</ul>
+	</div>
+	<div class="col-sm-3">
+	<ul>-->
+		<!--<li class="megamenu-item-info">
+		<h5 class="megamenu-item-info-title"><a>Embedded Technologies </a></h5>
+		</li>
+		<li class="megamenu-item-info">
+		<div class="megamenu-item-info-text">
+		<ol>
+			<li><a href="https://www.deligence.com/technologies/embedded-technologies/embedded-c">Embedded C</a></li>
+			<li><a href="https://www.deligence.com/technologies/embedded-technologies/python">Python</a></li>
+		</ol>
+		</div>
+		</li>-->
+		<!--<li class="megamenu-item-info">
+		<h5 class="megamenu-item-info-title"><a>Mobile Technologies </a></h5>
+		</li>
+		<li class="megamenu-item-info">
+		<div class="megamenu-item-info-text">
+		<ol>
+			<li><a href="https://www.deligence.com/technologies/mobile-technologies/apache-cordova">Apache Cordova</a></li>-->
+			<!--<li><a href="https://www.deligence.com/technologies/mobile-technologies/ionic">Ionic </a></li>-->
+		<!--	<li><a href="https://www.deligence.com/technologies/mobile-technologies/react-native">React Native </a></li>
+		</ol>
+		</div>
+		</li>
+	</ul>
+	</div>
+	<div class="col-sm-3">
+	<ul>
+		<li class="megamenu-item-info">
+		<h5 class="megamenu-item-info-title"><a>CSS Frameworks </a></h5>
+		</li>
+		<li class="megamenu-item-info">
+		<div class="megamenu-item-info-text">
+		<ol>
+			<li><a href="https://www.deligence.com/technologies/css-framework/bootstrap">Bootstrap </a></li>
+			<!--<li><a href="https://www.deligence.com/technologies/css-framework/materialize">Materialize </a></li>
+			<li><a href="https://www.deligence.com/technologies/css-framework/gantry5">Gantry 5 </a></li>-->
+	<!--	</ol>
+		</div>
+		</li>
+		<li class="megamenu-item-info">
+		<h5 class="megamenu-item-info-title"><a>JS Frameworks </a></h5>
+		</li>
+		<li class="megamenu-item-info">
+		<div class="megamenu-item-info-text">
+		<ol>
+		    <li><a href="https://www.deligence.com/technologies/js-framework/vuejs">Vue JS </a></li>
+			<li><a href="https://www.deligence.com/technologies/js-framework/angularjs">Angular JS</a></li>
+			<li><a href="https://www.deligence.com/technologies/js-framework/reactjs">React JS </a></li>
+		</ol>
+		</div>
+		</li>
+	</ul>
+	</div>
+	</div>
+	</div>
+	</li>-->
+    <li class="menu-item-has-children" id="about-us"><a href="https://www.deligence.com/technologies">Technologies</a>
+	<ul class="dropdown">
+		<li class="hover-ver2"><a href="https://www.deligence.com/technologies/flutter-firebase"><span class="fa fa-angle-double-right"></span> Flutter & Firebase</a></li>
+		<li class="hover-ver2"><a href="https://www.deligence.com/technologies/meteor"><span class="fa fa-angle-double-right"></span> Meteor</a></li>
+        <li class="hover-ver2"><a href="https://www.deligence.com/technologies/reaction-commerce"><span class="fa fa-angle-double-right"></span> Reaction Commerce</a></li>
+		<li class="hover-ver2"><a href="https://www.deligence.com/technologies/react-nextjs-graphql"><span class="fa fa-angle-double-right"></span> RNG Stack (React, Next.js, GraphQL)</a></li>
+		
+	</ul>
+	</li>
+	<li class="menu-item-has-children" id="about-us"><a href="https://www.deligence.com/about-us">About Us</a>
+	<ul class="dropdown">
+		<!--<li class="hover-ver2"><a href="https://www.deligence.com/about-us"><span class="fa fa-user"></span>Who We Are</a></li>-->
+		<li class="hover-ver2"><a href="https://www.deligence.com/our-promoters"><span class="fa fa-suitcase"></span>Our Promoters</a></li>
+		<li class="hover-ver2"><a href="https://www.deligence.com/testimonial"><span class="fa fa-comments" ></span>Testimonial</a></li>
+       <!-- <li class="hover-ver2" ><a href="https://www.deligence.com/media"><span class="fa fa-microphone" ></span> Media</a></li>-->
+	</ul>
+	</li>
+	<li id="services"><a href="https://www.deligence.com/services">Services</a>
+	<ul class="dropdown">
+		<li class="megamenu-item-info">
+		<h5 class="megamenu-item-info-title">List of Services</h5>
+
+		<p class="megamenu-item-info-text">Choose a Service</p>
+		</li>
+		<!--<li class="hover-ver2"><a href="https://www.deligence.com/services/internet-of-things"><span class="fa fa-gears"></span>Internet of Things </a></li>
+		<li class="hover-ver2"><a href="https://www.deligence.com/services/embedded-software-development"><span class="fa fa-mobile"></span>Embedded Software Development </a>
+                    <ul class="dropdown">
+		       <li><a href="https://www.deligence.com/services/embedded-software-development/arduino">Arduino</a></li>
+                       <li><a href="https://www.deligence.com/services/embedded-software-development/raspberry-pi">Raspberry Pi</a></li>
+		    </ul>
+
+                </li>-->
+        <li class="hover-ver2"><a href="https://www.deligence.com/services/mobile-apps-development"> <span class="fa fa-mobile"></span>Hybrid Mobile App Development </a></li>      
+        <li class="hover-ver2"><a href="https://www.deligence.com/services/web-development"><span class="fa fa-desktop"></span>Web App Development </a></li>
+         <li class="hover-ver2"><a href="https://www.deligence.com/services/ecommerce-mobile-application-development"><span class="fa fa-shopping-cart"></span>Ecommerce App Development</a></li>
+		
+		<!--<li class="hover-ver2"><a href="https://www.deligence.com/services/word-add-ins-development"><span class="fa fa-keyboard-o"></span>Word Add-in Development </a></li>
+		<li class="hover-ver2"><a href="https://www.deligence.com/services/web-design"><span class="fa fa-pencil-square"></span>Web Design </a></li>-->
+                <!--<li class="hover-ver2"><a href="https://www.deligence.com/services/web-testing"> <span class="fa fa-bug"></span>Web Testing</a></li>-->
+        <!-- <li class="hover-ver2"><a href="https://www.deligence.com/services/web-maintenance"> <span class="fa fa-wrench"></span>Web Maintenance</a></li>
+         <li class="hover-ver2"><a href="https://www.deligence.com/services/search-engine-optimization"> <span class="fa fa-line-chart"></span>Search Engine Optimization</a></li>-->
+	</ul>
+	</li>
+	<li id="portfolio"><a href="https://www.deligence.com/portfolio">Portfolio</a></li>
+	<li id="blog"><a href="https://www.deligence.com/blog">Blog</a></li>
+    <li id="our-partner"><a href="https://www.deligence.com/our-partner">Our Partner</a></li>
+    <li id="career" class="menu-item-has-children"><a href="https://www.deligence.com/career">Career</a>
+   <!-- <ul class="dropdown">
+		<li class="hover-ver2"><a href="https://www.deligence.com/career/php-to-nodeJS"><span class="fa fa-suitcase"></span> PHP to Node.js</a></li>
+     </ul>-->
+    </li>
+	<li id="contact-us"><a href="https://www.deligence.com/contact-us">Contact Us</a></li>
+           </ul>
+          <ul class="pull-right navbar-nav nav-search hidden-sm hidden-xs">
+             <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-search"></i></a>
+                   <ul class="dropdown-menu">
+     			    	<div class="gcse-search" 
+    data-enableHistory="false"
+     data-newWindow="true" 
+    data-enableAutoComplete="true" 
+    data-autoCompleteMaxCompletions="5" 
+    data-autoCompleteMatchType="any" 
+    data-enableImageSearch="true" 
+    data-imageSearchLayout="classic" 
+    data-adchannel="xxxxxxxxxxxxxxx" 
+    data-adclient="xxxxxxxxxxxxxxx"></div>
+
+<!--<gcse:search></gcse:search>-->
+                   </ul>
+             </li>
+            
+          </ul>
+</nav>
+<div class="user-menu open-overlay swing"> <a href="#" class="user-menu-content  js-open-aside"> <span></span> <span></span> <span></span> </a> </div>
+</div>
+</div>
+</div>
+</header>
+<!-- End Header-->
+<!-- Right-menu -->
+<div class="mCustomScrollbar" data-mcs-theme="dark">
+<div class="popup right-menu">
+<div class="right-menu-wrap">
+<div class="user-menu-close js-close-aside"> <a href="#" class="user-menu-content  js-clode-aside"> <span></span> <span></span> </a> </div>
+<div class="logo"><img alt="deligence technologies"   title="Mobile & web app development" src="https://www.deligence.com/images/logo2018-3.png" height="300" width="107"  /> <!-- <div class="logo-text">
+                    <div class="logo-title">Deligence Technologies</div>
+            </div>--></div>
+<ul class="side-social-icons">
+        <li><a class="Facebook" title="Facebook" href="https://www.facebook.com/deligencetechnologies" target="_blank">Facebook</a></li>
+        <li><a class="LinkedIn" title="LinkedIn" href="https://www.linkedin.com/company/deligencetechnologies" target="_blank">LinkedIn</a></li>
+        <li><a class="Twitter" title="Twitter" href="https://twitter.com/deligence1" target="_blank">Twitter</a></li>
+        <li><a class="skype" title="skype" href="skype:sanjay.deligence" target="_blank">Skype</a></li>
+        <li><a class="github" title="github" href="https://github.com/DeligenceTechnologies" target="_blank">Github</a></li>
+        <li><a class="youtube" title="youtube" href="https://www.youtube.com/channel/UCbCXleygol2xB3Q4siq_6tg" target="_blank">Youtube</a></li>
+      </ul>
+</div>
+<div class="contacts">
+<h4 class="contacts-title">Get In Touch</h4>
+<div class="contacts-item"><img alt="Phone no"   title="Contact no" src="https://www.deligence.com/images/contact4.png" height="48" width="47" />
+<div class="content"><span class="title">+91 9910130340</span>
+<p class="sub-title">Mon-Fri 9am-6pm</p>
+</div>
+</div>
+<div class="contacts-item"><img alt="Email"   title="Email Address" src="https://www.deligence.com/images/contact5.png" height="48" width="47"  />
+<div class="content"><a class="title" href="mailto:info@deligence.com">info@deligence.com</a>
+<p class="sub-title">online support</p>
+</div>
+</div>
+<div class="contacts-item"><img alt="Address"   title="Address" src="https://www.deligence.com/images/contact6.png" height="48" width="48"  />
+<div class="content"><span class="title">Deligence Technologies </span>
+<p class="sub-title">106 &amp; 107, 1st Floor, Jyoti Shikhar, District Centre, Janakpuri , New Delhi - 110058, India</p>
+</div>
+</div>
+</div>
+<div class="side_frm">
+<h4 class="contacts-title">Drop Us A Line!</h4>
+<p id="drop_response" class = "text-success" style="font-weight:bold;"></p>
+<form id="drop_form" onSubmit="return drop_mail();" method="post" action="">
+<input placeholder="Please Enter Your Name" required="" type="text" id="drop_name" /> 
+<input placeholder="Please Enter Email Address" required="" type="text" id="drop_email" />
+<textarea placeholder="Your Message" id="drop_msg" required=""></textarea>
+<input type="submit" value="Request Now" class="btn btn-primary drop_msg" >
+</form>
+</div>
+</div>
+</div>
+<!--End Right-menu-->
+<!------------- Content wrapper Start --------------------> 
+<div class="content-wrapper">
+
+ <div class="internal-header int-banner">
+      <div class="container">
+       <div class="all_page_slider">
+         <div class="all_page_slider_table"> 
+           <div class="all_page_slider_text">
+                <h2>404 PAGE</h2>
+           </div>
+         </div>
+          <div class="breacrumb">
+              <ul>
+                <li><a class="home" href="https://www.deligence.com/"><span>Home</span></a></li>
+                <li><i class="fa fa-angle-double-right"></i></li>
+                <li> <strong>404 PAGE</strong> </li>
+	      </ul>                      
+         </div>
+       </div>
+        
+      </div>
+  </div>
+  
+<!------ Main Content Area Start -------------------> 
+<section class="int-maincontent">
+    <div class="container">
+       <div class="row">
+           <div class="col-sm-12">
+               <div class="error-section text-center">
+                <div class="smiley-icon"><img src="https://www.deligence.com//images/smiley-image.png" alt=""></div>
+                 <div class="extra-big">Oops!!</div>
+                 <div class="bigger-text">The Page Could Not Be Found!</div>
+                 <div class="small-text">Please go to one of the Menu from Top or Right Side bar or use the Search from Right Side bar</div>
+                </div>
+           </div>
+                  </div>
+
+     
+    </div>
+</section>     
+<!------ Main Content Area End ------------------->
+
+</div><!------ Content wrapper End-------> 
+ 
+
+<div class="footer-topLinks">
+  <div class="container">
+     <div class="footer-innertopBG">
+      <div class="row">
+      <div class="col-sm-4">
+        <ul>
+        <li><a href="https://www.deligence.com/meteor">Hire Meteor Developer</a></li>
+        <li><a href="https://www.deligence.com/mobile-app-development">Hire Mobile App Developer</a></li>
+        <li><a href="https://www.deligence.com/technologies/mocha">Mocha - JavaScript Testing Framework</a></li>
+        <li><a href="https://www.deligence.com/technologies/zoom-charts">Zoom Charts</a></li>
+        </ul>
+        <h2>Mobile Technologies</h2>
+        <ul>
+          <li><a href="https://www.deligence.com/technologies/mobile-technologies/apache-cordova">Apache Cordova</a></li>
+          <li><a href="https://www.deligence.com/technologies/mobile-technologies/react-native">React Native</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+        <h2>Front End Frameworks</h2>
+        <ul>
+          <li><a href="https://www.deligence.com/technologies/js-framework/vuejs">Vue JS</a></li>
+          <li><a href="https://www.deligence.com/technologies/js-framework/reactjs">React JS</a></li>
+          <li><a href="https://www.deligence.com/technologies/js-framework/angularjs">Angular JS</a></li>
+          <li><a href="https://www.deligence.com/technologies/css-framework/bootstrap">Bootstrap</a></li>
+        </ul>
+        
+      </div>
+      <div class="col-sm-2">
+        <h2>CMS</h2>
+        <ul>
+          <li><a href="https://www.deligence.com/technologies/cms/joomla">Joomla</a></li>
+          <li><a href="https://www.deligence.com/technologies/cms/wordpress">Wordpress</a></li>
+        </ul>
+         <h2>Career</h2>
+        <ul>
+          <li><a href="https://www.deligence.com/career/php-to-nodeJS">PHP to Node JS</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-3">
+         <div>
+           <div class="clutch-widget" style="border: #efefef solid 1px;background: #fff; padding:5px 10px;" data-url="https://clutch.co" data-widget-type="2" data-height="50" data-clutchcompany-id="160051"></div>
+
+            <div style="height:100px;"><div class="goodfirm-widget" style="margin:5px 0px;" data-widget-type="goodfirms-widget-t3" data-widget-pattern="star-basic" data-height="100" data-company-id="8097"></div></div>
+
+            <div><a target="_blank" href="https://www.goodfirms.co/companies/view/8097/deligence-technologies-pvt-ltd">
+               <img src="https://www.goodfirms.co/img/badges/media/white/rsquare/large/review-us.png" alt="goodfirms"> </a>
+            </div>
+
+         </div>
+      </div>
+    </div>
+    </div>
+  </div>
+</div>
+<style>
+.footer{
+  background: #000 url(../images/bg2.jpg) repeat fixed;
+  padding: 30px 0px 10px 0px;
+}
+.copyright{
+	position:relative;
+	top: 0;
+}
+.go-top {
+
+    bottom: 1.5em;
+}
+</style>
+<footer class="footer">
+<div class="container">
+<div class="col-lg-12">
+<div class="copyright">&copy; Copyright 2019 Deligence Technologies <!-- up to top -->
+<div class="pull-right">
+<ul class="side-social-icons">
+        <li><a class="Facebook" title="Facebook" href="https://www.facebook.com/deligencetechnologies" target="_blank">Deligence Technology-Facebook</a></li>
+        <li><a class="LinkedIn" title="LinkedIn" href="https://www.linkedin.com/company/deligencetechnologies" target="_blank">Deligence Technology-LinkedIn</a></li>
+        <li><a class="Twitter" title="Twitter" href="https://twitter.com/deligence1" target="_blank">Deligence Technology-Twitter</a></li>
+        <li><a class="skype" title="skype" href="skype:sanjay.deligence" target="_blank">Deligence Technology-Skype</a></li>
+        <li><a class="github" title="github" href="https://github.com/DeligenceTechnologies" target="_blank">Deligence Technology-Github</a></li>
+        <li><a class="youtube" title="youtube" href="https://www.youtube.com/channel/UCbCXleygol2xB3Q4siq_6tg" target="_blank">Deligence Technology-Youtube</a></li>
+      </ul>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+
+<!--<footer class="footer">
+<div class="ss-style-invertedrounded" id="footer">
+<div class="container">
+<div class="col-lg-12">
+<div class="copyright">&copy; Copyright 2018 Deligence Technologies 
+<div class="pull-right">
+<ul class="side-social-icons">
+        <li><a class="Facebook" title="Facebook" href="https://www.facebook.com/deligencetechnologies" target="_blank">Deligence Technology-Facebook</a></li>
+        <li><a class="LinkedIn" title="LinkedIn" href="https://www.linkedin.com/company/deligencetechnologies" target="_blank">Deligence Technology-LinkedIn</a></li>
+        <li><a class="Twitter" title="Twitter" href="https://twitter.com/deligence1" target="_blank">Deligence Technology-Twitter</a></li>
+        <li><a class="skype" title="skype" href="skype:sanjay.deligence" target="_blank">Deligence Technology-Skype</a></li>
+        <li><a class="github" title="github" href="https://github.com/DeligenceTechnologies" target="_blank">Deligence Technology-Github</a></li>
+        <li><a class="youtube" title="youtube" href="https://www.youtube.com/channel/UCbCXleygol2xB3Q4siq_6tg" target="_blank">Deligence Technology-Youtube</a></li>
+      </ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>-->
+
+
+
+<a href="#"><span class="go-top fa fa-angle-double-up"></span></a> 
+<!-- SCRIPTS --><script src="/js/modernizr.custom.js"></script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/plugin/owl-carousel/js/owl.carousel.js"></script>
+<script src="/js/theme-plugins.js"></script>
+<script src="/js/crum-mega-menu.js"></script>
+<script src="/js/isotope.min.js"></script> 
+<script src="/plugin/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+<script src="/plugin/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+<script src="https://vjs.zencdn.net/5.19.2/video.js"></script>
+<script src="/js/jquery.diagram.js"></script>
+<script type="text/javascript" src="/js/custom2.js?v=25"></script>
+<!-- Addthis sharing tool -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-586ccc25c1d07610"></script> 
+<!-- Addthis sharing tool -->
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');__gaTracker('create','UA-54228485-1','auto');__gaTracker('send','pageview');</script> <script>(function(){var cx='008613043193416377186:0shj3frhhb8';var gcse=document.createElement('script');gcse.type='text/javascript';gcse.async=true;gcse.src='https://cse.google.com/cse.js?cx='+cx;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gcse,s);})();</script>
+
+</body>
+</html>
