@@ -8,7 +8,6 @@ var MARBLE = MARBLE || {};
   MARBLE.initialize = {
     init: function() {
       MARBLE.initialize.general();
-      MARBLE.initialize.svgconvert();
       MARBLE.initialize.slickslider();
       MARBLE.initialize.sectionBackground();
       MARBLE.initialize.alloffcanvas();
@@ -38,8 +37,7 @@ var MARBLE = MARBLE || {};
           scrollTop: 0
         }, 1500);
       });
-      // average color
-      $('.js-fillcolor').fillColor();
+
       // Schedule tab details flip
       $(".schedule-btn").on("click", function() {
         $(this).parent().toggleClass('active');
@@ -49,8 +47,7 @@ var MARBLE = MARBLE || {};
       AOS.init({
         once: true
       });
-      // venobox
-      $('.venobox').venobox();
+     
       // Mobile  menu
       $('#dl-menu').dlmenu();
     },
@@ -74,59 +71,11 @@ var MARBLE = MARBLE || {};
 
     },
 
-    /*========================================================*/
-    /*=           SvgConvert          =*/
-    /*========================================================*/
-    svgconvert: function() {
-      $('img.svg').each(function() {
-        var $img = $(this),
-          imgID = $img.attr('id'),
-          imgClass = $img.attr('class'),
-          imgURL = $img.attr('src');
-
-        $.get(imgURL, function(data) {
-          // Get the SVG tag, ignore the rest
-          var $svg = $(data).find('svg');
-
-          // Add replaced image's ID to the new SVG
-          if (typeof imgID !== 'undefined') {
-            $svg = $svg.attr('id', imgID);
-          }
-          // Add replaced image's classes to the new SVG
-          if (typeof imgClass !== 'undefined') {
-            $svg = $svg.attr('class', imgClass);
-          }
-
-          // Remove any invalid XML tags as per http://validator.w3.org
-          $svg = $svg.removeAttr('xmlns:a');
-
-          // Replace image with new SVG
-          $img.replaceWith($svg);
-        }, 'xml');
-      });
-    },
-
+    
     /*========================================================*/
     /*=           Slickslider         =*/
     /*========================================================*/
     slickslider: function() {
-
-
-      $(".post-gallery-slickSlider").slick({
-        autoplay: true,
-        autoplaySpeed: 10000,
-        speed: 900,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        pauseOnHover: false,
-        dots: false,
-        pauseOnDotsHover: true,
-        cssEase: 'linear',
-        fade: true,
-        draggable: true,
-        prevArrow: '<button class="PrevArrow"><i class="fas fa-arrow-left"></i></button>',
-        nextArrow: '<button class="NextArrow"><i class="fas fa-arrow-right"></i></button>',
-      });
 
       $(".previlege-slider").slick({
         autoplay: true,
@@ -148,51 +97,8 @@ var MARBLE = MARBLE || {};
             slidesToScroll: 1
           }
         }]
-
       });
-
-      $(".event-goal-slider").slick({
-        infinite: true,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        vertical: true,
-        autoplaySpeed: 10000,
-        speed: 900,
-        autoplay: true,
-        draggable: true,
-        cssEase: 'linear',
-        dots: true
-      });
-
-      $(".discussion-member-slider").slick({
-        infinite: true,
-        slidesToShow: 2,
-        slidesToScroll: 1,
-        vertical: true,
-        autoplaySpeed: 5000,
-        speed: 900,
-        autoplay: false,
-        draggable: true,
-        cssEase: 'linear',
-        dots: false,
-        focusOnSelect: true
-      });
-
-      $(".about-boxed-slider").slick({
-        infinite: true,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        autoplaySpeed: 5000,
-        speed: 900,
-        autoplay: false,
-        draggable: true,
-        cssEase: 'linear',
-        dots: true,
-        focusOnSelect: true,
-        arrows: false
-      });
-
-
+    
       $(".staff-carousel").slick({
         autoplay: true,
         autoplaySpeed: 10000,
@@ -221,32 +127,7 @@ var MARBLE = MARBLE || {};
             }
           }
         ]
-
       });
-
-      $(".testimonial-slider-one").slick({
-        autoplay: true,
-        autoplaySpeed: 10000,
-        speed: 900,
-        slidesToShow: 1,
-        slidesToScroll: 1,
-        pauseOnHover: false,
-        dots: true,
-        pauseOnDotsHover: true,
-        cssEase: 'linear',
-        draggable: true,
-        arrows: false,
-
-        responsive: [{
-          breakpoint: 450,
-          settings: {
-            slidesToShow: 1,
-            slidesToScroll: 1
-          }
-        }]
-
-      });
-
     },
 
     /*==========================================*/
@@ -261,22 +142,7 @@ var MARBLE = MARBLE || {};
         });
       });
 
-      //Parallax Background
-      if ($(window).width() > 768) {
-        $(window).on('scroll', function() {
-          $('[data-parallax="image"]').each(function() {
-            var actualHeight = $(this).position().top;
-            var speed = $(this).data('parallax-speed');
-            var reSize = actualHeight - $(window).scrollTop();
-            var makeParallax = -(reSize / 2);
-            var posValue = makeParallax + "px";
-
-            $(this).css({
-              backgroundPosition: '50% ' + posValue,
-            });
-          });
-        });
-      }
+     
     },
   };
 
@@ -337,6 +203,10 @@ var MARBLE = MARBLE || {};
       }
     },
   };
+
+  $(function(){
+    $('.selectpicker').selectpicker();
+});
 
   // Initialize Functions
   $(document).ready(MARBLE.documentOnReady.init);
